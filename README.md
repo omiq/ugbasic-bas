@@ -1,3 +1,9 @@
+Get the docker image from https://github.com/cbegin/ugbasic-build
+
+Then use his or my Makefile
+
+## Usage
+
 Defaults to c64
 
 `make FILE=hello.bas`
